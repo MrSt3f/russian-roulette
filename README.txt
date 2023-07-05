@@ -4,3 +4,4 @@ YOU HAVE TO INSTALL PYTHON TO MAKE THE GAME WORK!
 
 Thanks to OnlyMax for the help!
 
+The game is better whit windows... linux version will come out soon
