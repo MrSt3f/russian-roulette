@@ -1,25 +1,6 @@
 This program is made by mrstef.exe
 
+YOU HAVE TO INSTALL PYTHON TO MAKE THE GAME WORK!
+
 Thanks to OnlyMax for the help!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-P.S. This program is made only for educational purposes
